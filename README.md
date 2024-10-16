@@ -13,6 +13,23 @@ Este repositório contém um projeto para simular um circuito e código no Tinke
     <sup>Imagem do Arduino 2 - Fonte: TinkerCAD</sup>
 </div>
 
+``` C
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Espera por 1000 milissegundos (s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Espera por 1000 milissegundos (s)
+}
+```
+
 <div align="center">
     <img src="assets/codigo.jpg" alt="Imagem do Código" width="1000"/>
     <br>
