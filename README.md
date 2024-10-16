@@ -4,17 +4,17 @@ Este repositório contém um projeto para simular um circuito e código no Tinke
 <div align="center">
     <img src="assets/ledinterno1.png" alt="Imagem do Arduino 1" width="1000"/>
     <br>
-    <sub>magem do Arduino 1 - Fonte: TinkerCAD</sub>
+    <sup>Imagem do Arduino 1 - Fonte: TinkerCAD</sup>
 </div>
 
 <div align="center">
     <img src="assets/ledinterno2.jpg" alt="Imagem do Arduino 2" width="1000"/>
     <br>
-    <sub>Imagem do Arduino 2 - Fonte: TinkerCAD</sub>
+    <sup>Imagem do Arduino 2 - Fonte: TinkerCAD</sup>
 </div>
 
 <div align="center">
     <img src="assets/codigo.jpg" alt="Imagem do Código" width="1000"/>
     <br>
-    <sub>Imagem do Código- Fonte: TinkerCAD</sub>
+    <sup>Imagem do Código- Fonte: TinkerCAD</sup>
 </div>
