@@ -1,9 +1,9 @@
-## Parte 1 Blink Led Interno Arduino
+# Parte 1 Blink Led Interno Arduino
 
 Este repositório contém um projeto para simular um circuito e código no TinkerCAD que faz o LED interno de um Arduino piscar a cada 1000 milissegundos (1 segundo). O código utiliza a função digitalWrite para alternar o estado do LED entre ligado e desligado, com um intervalo de 1 segundo entre cada mudança.
 
-### Imagem do TinkerCad
-
+### Arduino no TinkerCad
+"Aqui está uma demonstração do LED 'L' no TinkerCAD que pisca a cada 1 segundo.
 <div align="center">
     <img src="assets/ledinterno1.png" alt="Imagem do Arduino 1" width="1000"/>
     <br>
@@ -17,7 +17,7 @@ Este repositório contém um projeto para simular um circuito e código no Tinke
 </div>
 
 ### Imagem do Código
-
+Aqui está o código no TinkerCAD:
 <div align="center">
     <img src="assets/codigo.jpg" alt="Imagem do Código" width="1000"/>
     <br>
@@ -25,7 +25,7 @@ Este repositório contém um projeto para simular um circuito e código no Tinke
 </div>
 
 ### Código
-
+Aqui está o código:
 ``` C
 // C++ code
 //
@@ -43,3 +43,4 @@ void loop()
 }
 ```
 
+### Testando Protótipo
